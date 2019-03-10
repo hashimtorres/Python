@@ -1,0 +1,4 @@
+import random
+Students =['hashim','torres','ravi','ronaldo','messi']
+leader = random.choice(Students)
+print(leader)
